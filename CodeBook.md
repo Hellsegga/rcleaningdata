@@ -1,4 +1,4 @@
-#Variables
+# Variables
 
 * subject: subject id (from 1 to 30)
 * labeldescription: the label of the activity (see activity_labels.txt in the original dataset)
