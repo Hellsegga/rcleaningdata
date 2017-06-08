@@ -1,26 +1,27 @@
-*Variables*
+#Variables
 
-subject: subject id (from 1 to 30)
-labeldescription: the label of the activity (see activity_labels.txt in the original dataset)
+* subject: subject id (from 1 to 30)
+* labeldescription: the label of the activity (see activity_labels.txt in the original dataset)
 
 For the following variables the average ("mean") and standard deviation ("std") is provided. Those metrics are the average of the original metrics per subject and activity.
-tbodyccc xyz
-tgravityacc xyz
-tbodyaccjerk xyz
-tbodygyro xyz
-tbodygyrojerk xyz
-tbodyaccmag
-tgravityaccmag
-tbodyaccjerkmag
-tbodygyromag
-tbodygyrojerkmag
-fbodyacc xyz
-fbodyaccjerk xyz
-fbodygyro xyz
-fbodyaccmag
-fbodyAccjerkmag
-fbodygyromag
-fbodygyrojerkmag
+
+* tbodyccc xyz
+* tgravityacc xyz
+* tbodyaccjerk xyz
+* tbodygyro xyz
+* tbodygyrojerk xyz
+* tbodyaccmag
+* tgravityaccmag
+* tbodyaccjerkmag
+* tbodygyromag
+* tbodygyrojerkmag
+* fbodyacc xyz
+* fbodyaccjerk xyz
+* fbodygyro xyz
+* fbodyaccmag
+* fbodyAccjerkmag
+* fbodygyromag
+* fbodygyrojerkmag
 
 For definition of the variables, see the original dataset http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
